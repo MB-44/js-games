@@ -1,0 +1,28 @@
+button {
+    background-color: rgb(168, 124, 209);   
+    width: 100px;
+    height: 30px;
+    font-size: medium;
+    font-weight: bold;
+    font-style: oblique;
+    color: aliceblue; 
+    border-radius: 5px;
+    border-color: aliceblue;
+    border-bottom: 1px;
+}
+
+.pc {
+    color: rgb(5, 9, 112);
+    font-weight: bold;
+    background-color: antiquewhite;   
+}
+
+.user {
+    color: rgb(5, 9, 112);
+    background-color: bisque;
+}
+
+.output {
+    color: rgb(182, 44, 44);
+    background-color: rgb(194, 218, 218);
+}
